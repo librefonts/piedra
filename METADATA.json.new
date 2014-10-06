@@ -1,0 +1,33 @@
+{
+  "name": "Piedra",
+  "designer": "Sudtipos",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 36358,
+  "fonts": [
+    {
+      "name": "Piedra",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Piedra-Regular.ttf",
+      "postScriptName": "Piedra-Regular",
+      "fullName": "Piedra Regular",
+      "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Piedra\""
+    },
+    {
+      "name": "Piedra",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Piedra-Regular-TTF.ttf",
+      "postScriptName": "Piedra-Regular",
+      "fullName": "Piedra-Regular",
+      "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\nCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\nwith Reserved Font Name \"Piedra\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-11-30"
+}
